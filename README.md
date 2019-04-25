@@ -13,7 +13,7 @@ The main part where the integration between the Rasa Stack and Mozilla happens i
 
 To run this example run:  
 - python run_bot.py (this should load the Rasa bot on a server)
-- cd bot_ui (got to a directory which contains the example bot ui)
+- cd bot_ui (go to a directory which contains the example bot ui)
 - php -S localhost:8080 (start the UI on a local server and talk to you bot after navigating to http://localhost:8080)
 
 ## 🤖 How to install and run Sara
